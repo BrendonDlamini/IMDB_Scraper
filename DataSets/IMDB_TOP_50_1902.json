@@ -1,0 +1,452 @@
+{
+    "1": {
+        "name": "The Power of the Dog",
+        "certificate": "R",
+        "runtime": "126 min",
+        "genre": "Drama, Romance, Western",
+        "description": "Charismatic rancher Phil Burbank inspires fear and awe in those around him. When his brother brings home a new wife and her son, Phil torments them until he finds himself exposed to the possibility of love.",
+        "director": "",
+        "stars": []
+    },
+    "2": {
+        "name": "Spider-Man: No Way Home",
+        "certificate": "PG-13",
+        "runtime": "148 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+        "director": "",
+        "stars": []
+    },
+    "3": {
+        "name": "The Matrix Resurrections",
+        "certificate": "R",
+        "runtime": "148 min",
+        "genre": "Action, Sci-Fi",
+        "description": "Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.",
+        "director": "",
+        "stars": []
+    },
+    "4": {
+        "name": "West Side Story",
+        "certificate": "PG-13",
+        "runtime": "156 min",
+        "genre": "Crime, Drama, Musical",
+        "description": "An adaptation of the 1957 musical, West Side Story explores forbidden love and the rivalry between the Jets and the Sharks, two teenage street gangs of different ethnic backgrounds.",
+        "director": "",
+        "stars": []
+    },
+    "5": {
+        "name": "House of Gucci",
+        "certificate": "13",
+        "runtime": "158 min",
+        "genre": "Crime, Drama",
+        "description": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel their legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.",
+        "director": "",
+        "stars": []
+    },
+    "6": {
+        "name": "The Last Duel",
+        "certificate": "R",
+        "runtime": "152 min",
+        "genre": "Action, Drama, History",
+        "description": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.",
+        "director": "",
+        "stars": []
+    },
+    "7": {
+        "name": "Dune: Part One",
+        "certificate": "PG-13",
+        "runtime": "155 min",
+        "genre": "Action, Adventure, Drama",
+        "description": "Feature adaptation of Frank Herbert's science fiction novel about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+        "director": "",
+        "stars": []
+    },
+    "8": {
+        "name": "Don't Look Up",
+        "certificate": "R",
+        "runtime": "138 min",
+        "genre": "Comedy, Drama, Sci-Fi",
+        "description": "Two low-level astronomers must go on a giant media tour to warn mankind of an approaching comet that will destroy planet Earth.",
+        "director": "",
+        "stars": []
+    },
+    "9": {
+        "name": "The Unforgivable",
+        "certificate": "",
+        "runtime": "112 min",
+        "genre": "Crime, Drama",
+        "description": "A woman is released from prison after serving a sentence for a violent crime and re-enters a society that refuses to forgive her past.",
+        "director": "",
+        "stars": []
+    },
+    "10": {
+        "name": "Ghostbusters: Afterlife",
+        "certificate": "PG-13",
+        "runtime": "124 min",
+        "genre": "Adventure, Comedy, Fantasy",
+        "description": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+        "director": "",
+        "stars": []
+    },
+    "11": {
+        "name": "Single All the Way",
+        "certificate": "",
+        "runtime": "99 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Desperate to avoid his family's judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they're now in a relationship.",
+        "director": "",
+        "stars": []
+    },
+    "12": {
+        "name": "Encanto",
+        "certificate": "PG",
+        "runtime": "102 min",
+        "genre": "Animation, Comedy, Family",
+        "description": "A young Colombian girl has to face the frustration of being the only member of her family without magical powers.",
+        "director": "",
+        "stars": []
+    },
+    "13": {
+        "name": "Spider-Man: Across the Spider-Verse - Part One",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Animation, Action, Adventure",
+        "description": "Miles Morales returns for the next chapter of the Oscar\u00ae-winning Spider-Verse saga, an epic adventure that will transport Brooklyn's full-time, friendly neighborhood Spider-Man across the ...                See full summary\u00a0\u00bb",
+        "director": "",
+        "stars": []
+    },
+    "14": {
+        "name": "Home Alone",
+        "certificate": "A",
+        "runtime": "103 min",
+        "genre": "Comedy, Family",
+        "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+        "director": "",
+        "stars": []
+    },
+    "15": {
+        "name": "No Time to Die",
+        "certificate": "PG-13",
+        "runtime": "163 min",
+        "genre": "Action, Adventure, Thriller",
+        "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+        "director": "",
+        "stars": []
+    },
+    "16": {
+        "name": "Shang-Chi and the Legend of the Ten Rings",
+        "certificate": "PG-13",
+        "runtime": "132 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+        "director": "",
+        "stars": []
+    },
+    "17": {
+        "name": "Licorice Pizza",
+        "certificate": "R",
+        "runtime": "133 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "The story of Alana Kane and Gary Valentine growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+        "director": "",
+        "stars": []
+    },
+    "18": {
+        "name": "Red Notice",
+        "certificate": "PG-13",
+        "runtime": "118 min",
+        "genre": "Action, Comedy, Thriller",
+        "description": "An Interpol agent tracks the world's most wanted art thief.",
+        "director": "",
+        "stars": []
+    },
+    "19": {
+        "name": "Eternals",
+        "certificate": "PG-13",
+        "runtime": "156 min",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+        "director": "",
+        "stars": []
+    },
+    "20": {
+        "name": "A Boy Called Christmas",
+        "certificate": "PG",
+        "runtime": "106 min",
+        "genre": "Adventure, Drama, Family",
+        "description": "In this origin story of Father Christmas, an ordinary boy (with a loyal pet mouse and a reindeer at his side) sets out on an extraordinary adventure to find his father who is on a quest to discover the fabled village of Elfhelm.",
+        "director": "",
+        "stars": []
+    },
+    "21": {
+        "name": "National Lampoon's Christmas Vacation",
+        "certificate": "A",
+        "runtime": "97 min",
+        "genre": "Comedy",
+        "description": "The Griswold family's plans for a big family Christmas predictably turn into a big disaster.",
+        "director": "",
+        "stars": []
+    },
+    "22": {
+        "name": "Silent Night",
+        "certificate": "",
+        "runtime": "92 min",
+        "genre": "Comedy, Horror",
+        "description": "Nell, Simon, and their son Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die.",
+        "director": "",
+        "stars": []
+    },
+    "23": {
+        "name": "Venom: Let There Be Carnage",
+        "certificate": "PG-13",
+        "runtime": "97 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
+        "director": "",
+        "stars": []
+    },
+    "24": {
+        "name": "tick, tick...BOOM!",
+        "certificate": "PG-13",
+        "runtime": "115 min",
+        "genre": "Biography, Drama, Musical",
+        "description": "On the cusp of his 30th birthday, a promising young theater composer navigates love, friendship and the pressures of life as an artist in New York City.",
+        "director": "",
+        "stars": []
+    },
+    "25": {
+        "name": "Resident Evil: Welcome to Raccoon City",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Action, Horror, Sci-Fi",
+        "description": "Set in 1998, this origin story explores the secrets of the mysterious Spencer Mansion and the ill-fated Raccoon City.",
+        "director": "",
+        "stars": []
+    },
+    "26": {
+        "name": "Love Actually",
+        "certificate": "R",
+        "runtime": "135 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+        "director": "",
+        "stars": []
+    },
+    "27": {
+        "name": "West Side Story",
+        "certificate": "",
+        "runtime": "153 min",
+        "genre": "Crime, Drama, Musical",
+        "description": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+        "director": "",
+        "stars": []
+    },
+    "28": {
+        "name": "Nightmare Alley",
+        "certificate": "R",
+        "runtime": "150 min",
+        "genre": "Crime, Drama, Thriller",
+        "description": "An ambitious carny with a talent for manipulating people with a few well-chosen words hooks up with a female psychiatrist who is even more dangerous than he is.",
+        "director": "",
+        "stars": []
+    },
+    "29": {
+        "name": "Last Night in Soho",
+        "certificate": "16",
+        "runtime": "116 min",
+        "genre": "Drama, Horror, Mystery",
+        "description": "An aspiring fashion designer is mysteriously able to enter the 1960s where she encounters a dazzling wannabe singer. But the glamour is not all it appears to be and the dreams of the past start to crack and splinter into something darker.",
+        "director": "",
+        "stars": []
+    },
+    "30": {
+        "name": "A Castle for Christmas",
+        "certificate": "",
+        "runtime": "98 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "To escape a scandal, a bestselling author journeys to Scotland, where she falls in love with a castle - and faces off with the grumpy duke who owns it.",
+        "director": "",
+        "stars": []
+    },
+    "31": {
+        "name": "Encounter",
+        "certificate": "R",
+        "runtime": "108 min",
+        "genre": "Sci-Fi, Thriller",
+        "description": "Two brothers embark on a journey with their father, who is trying to protect them from an alien threat.",
+        "director": "",
+        "stars": []
+    },
+    "32": {
+        "name": "Belfast",
+        "certificate": "PG-13",
+        "runtime": "98 min",
+        "genre": "Drama",
+        "description": "A young boy and his working-class Belfast family experience the tumultuous late 1960s.",
+        "director": "",
+        "stars": []
+    },
+    "33": {
+        "name": "The Matrix",
+        "certificate": "10",
+        "runtime": "136 min",
+        "genre": "Action, Sci-Fi",
+        "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "director": "",
+        "stars": []
+    },
+    "34": {
+        "name": "Spencer",
+        "certificate": "R",
+        "runtime": "117 min",
+        "genre": "Biography, Drama",
+        "description": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana Spencer, struggling with mental health problems, decides to end her decade-long marriage to Prince Charles.",
+        "director": "",
+        "stars": []
+    },
+    "35": {
+        "name": "The French Dispatch",
+        "certificate": "R",
+        "runtime": "107 min",
+        "genre": "Comedy, Drama, Romance",
+        "description": "A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in \"The French Dispatch Magazine\".",
+        "director": "",
+        "stars": []
+    },
+    "36": {
+        "name": "How the Grinch Stole Christmas",
+        "certificate": "PG",
+        "runtime": "104 min",
+        "genre": "Comedy, Family, Fantasy",
+        "description": "On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town.",
+        "director": "",
+        "stars": []
+    },
+    "37": {
+        "name": "King Richard",
+        "certificate": "PG-13",
+        "runtime": "144 min",
+        "genre": "Biography, Drama, Sport",
+        "description": "A look at how tennis superstars Venus and Serena Williams became who they are after the coaching from their father Richard Williams.",
+        "director": "",
+        "stars": []
+    },
+    "38": {
+        "name": "Sonic the Hedgehog 2",
+        "certificate": "",
+        "runtime": "",
+        "genre": "Action, Adventure, Comedy",
+        "description": "Sequel to the 2020 live-action feature film 'Sonic the Hedgehog'.",
+        "director": "",
+        "stars": []
+    },
+    "39": {
+        "name": "Love Hard",
+        "certificate": "",
+        "runtime": "104 min",
+        "genre": "Comedy, Romance",
+        "description": "An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for the holidays, only to discover that she's been catfished. This lighthearted romantic comedy chronicles her attempt to reel in love.",
+        "director": "",
+        "stars": []
+    },
+    "40": {
+        "name": "Free Guy",
+        "certificate": "PG-13",
+        "runtime": "115 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+        "director": "",
+        "stars": []
+    },
+    "41": {
+        "name": "Elf",
+        "certificate": "A",
+        "runtime": "97 min",
+        "genre": "Adventure, Comedy, Family",
+        "description": "Raised as an over-sized elf, a human travels from the North Pole to NYC to meet his biological father who doesn't know he exists and is in desperate need of some Christmas spirit.",
+        "director": "",
+        "stars": []
+    },
+    "42": {
+        "name": "Spider-Man: Into the Spider-Verse",
+        "certificate": "10-12",
+        "runtime": "117 min",
+        "genre": "Animation, Action, Adventure",
+        "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+        "director": "",
+        "stars": []
+    },
+    "43": {
+        "name": "8-Bit Christmas",
+        "certificate": "PG",
+        "runtime": "97 min",
+        "genre": "Comedy, Family",
+        "description": "In 1980s Chicago, a 10-year-old sets out on a quest to get the Christmas gift of his generation: the latest and greatest video-game system.",
+        "director": "",
+        "stars": []
+    },
+    "44": {
+        "name": "Being the Ricardos",
+        "certificate": "R",
+        "runtime": "131 min",
+        "genre": "Biography, Drama",
+        "description": "Follows Lucy and Desi as they face a crisis that could end their careers and another that could end their marriage.",
+        "director": "",
+        "stars": []
+    },
+    "45": {
+        "name": "It's a Wonderful Life",
+        "certificate": "PG",
+        "runtime": "130 min",
+        "genre": "Drama, Family, Fantasy",
+        "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+        "director": "",
+        "stars": []
+    },
+    "46": {
+        "name": "Die Hard",
+        "certificate": "16",
+        "runtime": "132 min",
+        "genre": "Action, Thriller",
+        "description": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+        "director": "",
+        "stars": []
+    },
+    "47": {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "certificate": "PG",
+        "runtime": "152 min",
+        "genre": "Adventure, Family, Fantasy",
+        "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+        "director": "",
+        "stars": []
+    },
+    "48": {
+        "name": "The Santa Clause",
+        "certificate": "PG",
+        "runtime": "97 min",
+        "genre": "Comedy, Drama, Family",
+        "description": "When a man inadvertently makes Santa fall off of his roof on Christmas Eve, he finds himself magically recruited to take his place.",
+        "director": "",
+        "stars": []
+    },
+    "49": {
+        "name": "The King's Man",
+        "certificate": "R",
+        "runtime": "131 min",
+        "genre": "Action, Adventure, Comedy",
+        "description": "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions.",
+        "director": "",
+        "stars": []
+    },
+    "50": {
+        "name": "Black Widow",
+        "certificate": "PG-13",
+        "runtime": "134 min",
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+        "director": "",
+        "stars": []
+    }
+}
